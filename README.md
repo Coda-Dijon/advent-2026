@@ -7,7 +7,7 @@
 
 [![pages-build-deployment](https://github.com/coda-school/advent-2026/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/coda-school/advent-2026/actions/workflows/pages/pages-build-deployment)
 
-**24 jours de code, de défis et de fun** pour booster tes skills avant Noël ! 🎅
+**24 jours de code, de défis et de fun** pour booster tes skills avant Noël !
 
 Une initiative [Coda](https://www.coda.school/), pour *s’inspirer, apprendre et grandir ensemble*.
 
