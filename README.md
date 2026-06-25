@@ -13,4 +13,4 @@ Une initiative [Coda](https://www.coda.school/), pour *s’inspirer, apprendre e
 
 Thématiques : Développement · Cyber · Réseaux · Data · IA
 
-[![Calendrier de l'Avent Coda - 2025](img/calendar.webp)](https://coda-school.github.io/advent-2025/)
+[![Calendrier de l'Avent Coda - 2025](img/calendar.webp)](https://coda-dijon.github.io/advent-2026/)
