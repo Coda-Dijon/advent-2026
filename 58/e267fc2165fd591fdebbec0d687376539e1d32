@@ -1,0 +1,19 @@
+css/styles.css
+  s_5bef22aefd853e::t_1f2800b8bfead4 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "58e267fc2165fd591fdebbec0d687376539e1d32",
+  "prompts": {},
+  "sessions": {
+    "s_5bef22aefd853e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "560b011c-cebe-4982-95b4-9baa1a6aff84",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
