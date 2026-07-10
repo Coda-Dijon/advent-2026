@@ -15,6 +15,8 @@
     <script src="js/hljs-languages/shell.min.js"></script>
     <script src="js/hljs-languages/markdown.min.js"></script>
     <script src="js/hljs-languages/gherkin.min.js"></script>
+    <link href="css/driver.min.css" rel="stylesheet">
+    <script src="js/driver.min.js"></script>
     <link href="css/styles.css" rel="stylesheet">
     <link href="css/fonts.css" rel="stylesheet">
     <link disabled href="css/upside-down.css" id="upside-css" rel="stylesheet">
@@ -46,6 +48,7 @@
                 sur
                 <a href="https://discord.gg/4wMhNGu69T" rel="noopener" target="_blank">Discord</a>.
             </p>
+            <button class="tour-btn" id="tour-btn" type="button">Visite guidée</button>
         </section>
 
         <section class="calendar-section">
@@ -270,11 +273,15 @@
             pour <a href="https://www.coda.school/" rel="noopener" target="_blank">Coda</a> — Calendrier de l'Avent
             | <a class="license-link" href="LICENSE" target="_blank">License MIT</a>
         </p>
+        <div class="footer-ecoindex">
+            <div data-theme="dark" id="ecoindex-badge"></div>
+        </div>
     </div>
 </footer>
 
 <script>hljs.configure({ignoreUnescapedHTML:true,classPrefix:"hljs-"});</script>
-<script src="script-20260506-111115.js"></script>
+<script src="script-20260710-220918.js"></script>
+<script defer src="js/ecoindex-badge.min.js"></script>
 <audio id="upside-audio" preload="none">
     <source src="sounds/stranger-things-theme-song.mp3" type="audio/mpeg">
     <source src="sounds/upside-down.ogg" type="audio/ogg">
